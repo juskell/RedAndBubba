@@ -21,9 +21,6 @@ button {
     width: 75%;
     height: 50px;
     font-size: 20px;
-    align-content: center;
-    align-self: center;
-    align-items: center;
 }
     button:hover {
         background-color:red;
