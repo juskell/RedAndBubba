@@ -4,12 +4,17 @@ h1, h3, h4, h5 {
 }
 h1, h5 {
     color: darkslateblue;
+    padding: 20px;
+}
+
+h3, h4 {
+    color: white;
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-    background-color: lightsteelblue;
+    background-color: #222;
 }
 
 table.center {
