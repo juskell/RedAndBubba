@@ -36,8 +36,6 @@ table.center {
 }
 
 .col-md-12 {
-    -ms-flex: 0 0 100%;
-    flex: 0 0 100%;
     max-width: 100%;
 }
 
@@ -58,6 +56,3 @@ table.center {
     margin-left: -15px;
 }
 
-.py-5 {
-    padding-top: 3rem!important;
-}
