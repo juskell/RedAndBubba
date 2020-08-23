@@ -27,14 +27,3 @@ table.center {
     text-align: center;
     padding: 20px;
 }
-
-button { 
-    background-color: darkslateblue;
-    width: 75%;
-    height: 50px;
-    font-size: 20px;
-}
-    button:hover {
-        background-color:red;
-    }
-
